@@ -1,3 +1,4 @@
 <?
-echo "Agora vai";
+echo "Agora vai :D";
+echo "Já foi haha";
 ?>
